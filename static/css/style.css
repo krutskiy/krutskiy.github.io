@@ -40,7 +40,7 @@ h4 {
   letter-spacing: 2px;
 }
 
-p {
+p, ol {
     color: #777;
     font-size: 15px;
     font-weight: 300;
@@ -103,7 +103,7 @@ a:hover, a:active, a:focus {
 
 .section-title {
   position: relative;
-  padding-bottom: 62px;
+  padding-bottom: 10px;
   text-align: center;
 }
 
